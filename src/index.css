@@ -17,10 +17,6 @@ body {
   font-size: 14px;
 }
 
-.listItem:hover {
-  background: #e2e8f0;
-  cursor: pointer;
-}
 
 .github-corner svg {
   position:absolute;
